@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+Everyone!+👋;+I'm+Banicsa!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salam+Dünya!+👋;+Mən+Banicsa!;" />
 </h1>
 
 <div align="center">
@@ -18,9 +18,9 @@
 
 <div align="center">
  
-<h2>Прежде всего, здравствуйте, меня зовут Аки, мне 21 год. Я "Back-End" разработчик. </h2>
-<h2>В свободное время мне нравится решать "CTF". </h2>
-<h2>Мы пишем код с командой "Discord" в субботу. </h2>
+<h2>Əvvəlcə salam, mən Əkbər Mahmudow, Azerbaycanlı bir gənc. "Back-End" (Ruby, Assembly, TypeScript) tərtibatçısıyam. </h2>
+<h2>Boş vaxtlarımda Hobbi olaraq "CTF" tapşırıqlarını həll etməyi, ayrıca Application və Kod yazmağla məşgul oluram.</h2>
+<h2>Biz şənbə günləri "Discord'da" dostlarımla birlikdə kod yazırıq. </h2>
 <br>
 <br>
  </div>
@@ -62,7 +62,7 @@
 <div align="center"><div align="center">
     <h2>🍪 Cookie 🍪</h2>
     
-🔗 [Bana Discord'da ulaş](https://discord.com/users/713117536220348477)
+🔗 [Discord Əlaqə](https://discord.com/users/713117536220348477)
 
 ![Discord](https://img.shields.io/badge/Discord-713117536220348477-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
