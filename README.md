@@ -18,9 +18,9 @@
 
 <div align="center">
  
-<h2>Əvvəlcə salam, mən Əkbər Mahmudow, Azerbaycanlı bir gənc. "Back-End" (Ruby, Assembly, TypeScript) tərtibatçısıyam. </h2>
-<h2>Boş vaxtlarımda Hobbi olaraq "CTF" tapşırıqlarını həll etməyi, ayrıca Application və Kod yazmağla məşgul oluram.</h2>
-<h2>Biz şənbə günləri "Discord'da" dostlarımla birlikdə kod yazırıq. </h2>
+<h2>Əvvəlcə salam, mən Əkbər Mahmudow, Azerbaycanlı bir gənc. "Back-End" (Ruby, Assembly, TypeScript) Junior Programçıyam.</h2>
+<h2>Hobbi olaraq "CTF" tapşırıqlarını həll etməyi, ayrıca Application və Kod yazmağla məşgul oluram.</h2>
+<h2>Şənbə günləri "Discord'da" kod yazırıq. </h2>
 <br>
 <br>
  </div>
