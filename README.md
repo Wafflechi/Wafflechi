@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=78&duration=5000&lines=Salam!+Mən,+Əkbər+Mahmudov" alt="Salam! Mən, Əkbər Mahmudow" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=78&duration=5000&lines=Salam!+Mən,+Əkbər+Mahmudow" alt="Salam! Mən, Əkbər Mahmudow" />
 </h1>
 
 
