@@ -15,22 +15,22 @@
 
 <!-- Qısa Haqqımda -->
 <div align="center">
-  <h3>👨‍💻 Mən Əkbər Mahmudow, Back-End yönümlü junior developaram. Ruby, TypeScript, Python, Assembly ilə işləməyi sevirəm.</h3>
-  <h4>🚩 Hobbi olaraq CTF tapşırıqları, Discord kod gecələri və mini tətbiqlərlə məşğulam.</h4>
+  <h3>👨‍💻 Mən Əkbər Mahmudow, Back-End Developerəm. Ruby, TypeScript, Python, Assembly ilə işləməyi sevirəm.</h3>
+  <h4>🚩 Hobbi olaraq CTF (Vuln4Me, HackToBox) tapşırıqlarını falan həll edirəm.</h4>
 </div>
 
 ---
 
 ## 🔧 Bacarıqlarım
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,ruby,c,assembly,mysql,mongodb,firebase,git,github,vscode,figma,tailwind,bootstrap,flask,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,ts,nextjs,nodejs,python,ruby,mongodb,firebase,git,github,vscode,figma,tailwind,bootstrap,flask,express" />
 </div>
 
 ---
 
 ## 📈 Aktivlik və Statistika
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=banisca&show_icons=true&theme=radical" width="45%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=salesp07&theme=radical" width="45%"/>
 </div>
 
@@ -45,17 +45,14 @@
 
 ## 🌐 Sosial Medya & Əlaqə
 <div align="center">
-  <a href="https://discord.com/users/713117536220348477" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-713117536220348477-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/356450093357989909" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-356450093357989909-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://instagram.com/1prakratura" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1prakratura-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/ekbermv" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ekbermv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/1timsah" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-1timsah-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://discord.gg/1008845353526771712" target="_blank">
-    <img src="https://img.shields.io/badge/Discord%20Server-Click%20to%20Join-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-banisca-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
 
@@ -73,7 +70,7 @@
 
 ## 🧩 TryHackMe Profilim
 <div align="center">
-  <a href="https://tryhackme.com/p/1522971" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/1522971.png" alt="TryHackMe" width="300"/>
+  <a href="https://tryhackme.com/p/banisca" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/banisca.png" alt="TryHackMe" width="300"/>
   </a>
 </div>
