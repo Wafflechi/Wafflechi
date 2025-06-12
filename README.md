@@ -63,11 +63,11 @@
 <div align="center"><div align="center">
     <h2>🍪 Cookie 🍪</h2>
     
-🔗 [Discord Əlaqə](https://discord.com/users/713117536220348477)
+🔗 [Əlaqə](https://discord.com/users/713117536220348477)
 
 ![Discord](https://img.shields.io/badge/Discord-713117536220348477-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1522971" style='border:none;'></iframe>
 
 <br/><br/><br/> 
 </div>
