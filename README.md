@@ -1,116 +1,79 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<!-- Profil Görüntüleyici -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" alt="visitor badge"/>
+</p>
 
+<!-- Salam Banner -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=900&height=78&duration=5000&lines=Salam!+Mən,+Əkbər+Mahmudow" alt="Salam! Mən, Əkbər Mahmudow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Salam!+Mən,+Əkbər+Mahmudow;Azerbaycansayağı+Developer;Junior+Back-End+Programçı" alt="Typing SVG" />
 </h1>
 
-
+<!-- Gif animasiyalı giriş -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
-<div align="center">
-    
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp;Azerbaycansayağı Developer&nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120"/>
 </div>
 
-<br/>
-
+<!-- Qısa Haqqımda -->
 <div align="center">
- 
-<h2>Əvvəlcə salam, mən Əkbər Mahmudow, Azerbaycanlı bir gənc. "Back-End" (Ruby, Assembly, TypeScript) Junior Programçıyam.</h2>
-<h2>Hobbi olaraq "CTF" tapşırıqlarını həll etməyi, ayrıca Application və Kod yazmağla məşgul oluram.</h2>
-<h2>Şənbə günləri "Discord'da" kod yazırıq. </h2>
-<br>
-<br>
- </div>
- 
-<div align="center"> 
-  <a href="">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <h3>👨‍💻 Mən Əkbər Mahmudow, Back-End yönümlü junior developaram. Ruby, TypeScript, Python, Assembly ilə işləməyi sevirəm.</h3>
+  <h4>🚩 Hobbi olaraq CTF tapşırıqları, Discord kod gecələri və mini tətbiqlərlə məşğulam.</h4>
+</div>
+
+---
+
+## 🔧 Bacarıqlarım
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,ruby,c,assembly,mysql,mongodb,firebase,git,github,vscode,figma,tailwind,bootstrap,flask,express" />
+</div>
+
+---
+
+## 📈 Aktivlik və Statistika
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=salesp07&theme=radical" width="45%"/>
+</div>
+
+---
+
+## 🐍 GitHub Contribution İlanı
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake"/>
+</p>
+
+---
+
+## 🌐 Sosial Medya & Əlaqə
+<div align="center">
+  <a href="https://discord.com/users/713117536220348477" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-713117536220348477-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://instagram.com/1prakratura" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-1prakratura-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://www.hackerrank.com/1timsah" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-1timsah-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/1008845353526771712" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20Server-Click%20to%20Join-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
- <hr/>
- 
-<h2 align="center">🍧 I Learned 🍧</h2>
-<br/>
+---
+
+## 🧠 Hal-hazırda Öyrəndiklərim
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="80">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="80">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="80">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="80">
 </div>
 
-<br/>
-<hr/>
+---
 
+## 🧩 TryHackMe Profilim
 <div align="center">
-  <h2>❄ Static's ❄</h2>
-  <br>
-  <img alt="snakeaki" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <a href="https://tryhackme.com/p/1522971" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/1522971.png" alt="TryHackMe" width="300"/>
+  </a>
 </div>
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<div align="center"><div align="center">
-    <h2>🍪 Cookie 🍪</h2>
-    
-🔗 [Əlaqə](https://discord.com/users/713117536220348477)
-
-![Discord](https://img.shields.io/badge/Discord-713117536220348477-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1522971" style='border:none;'></iframe>
-
-<br/><br/><br/> 
-</div>
-
-<br/>
-<hr/>
-<div align="center">
-<h1>Social's 🌐</h1>
-    <a href="https://instagram.com/1prakratura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akbermahmudow" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/1timsah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="1timsah" height="30" width="40" /></a>
-<a href="https://discord.gg/1008845353526771712" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1008845353526771712" height="30" width="40" /></a>
-</div>
-</div>
-<br>
-
-<br>
-<br>
-
-## Learning Now 🟢
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
-
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-</div>
-<br><br>    
-
-<br>
-<hr>
-<div align="center">
- 
-</div>
-
-<hr>
