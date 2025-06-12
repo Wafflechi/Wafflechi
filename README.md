@@ -31,7 +31,7 @@
 ## 📈 Aktivlik və Statistika
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=banisca&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=salesp07&theme=radical" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=banisca&theme=radical" width="45%"/>
 </div>
 
 ---
@@ -70,5 +70,8 @@
 
 ## 🧩 TryHackMe Profilim
 <div align="center">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1522971" style='border:none;'></iframe>
+  <a href="https://tryhackme.com/p/banisca" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/banisca.png" alt="TryHackMe" width="300"/>
+  </a>
 </div>
+
