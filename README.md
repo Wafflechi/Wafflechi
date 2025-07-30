@@ -31,7 +31,6 @@
 ## 📈 Aktivlik və Statistika
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Wafflechi&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Wafflechi&theme=radical" width="45%"/>
 </div>
 
 ---
