@@ -51,7 +51,7 @@
     <img src="https://img.shields.io/badge/Instagram-ekbermv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/1timsah" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-banisca-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-wafflechi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
 
