@@ -15,7 +15,7 @@
 
 <!-- Qısa Haqqımda -->
 <div align="center">
-  <h3>👨‍💻 Mən Əkbər Mahmudow, Back-End Developerəm. Ruby, TypeScript, Python, Assembly ilə işləməyi sevirəm.</h3>
+  <h3>👨‍💻 Mən Əkbər Mahmudow, Kiber Proqramçıyam. Ruby, TypeScript, Python, Assembly ilə işləməyi sevirəm.</h3>
   <h4>🚩 Hobbi olaraq CTF (Vuln4Me, HackToBox) tapşırıqlarını falan həll edirəm.</h4>
 </div>
 
