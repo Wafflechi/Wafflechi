@@ -35,7 +35,7 @@
 
 ---
 
-## 🐍 GitHub Contribution İlanı
+## 🐍 Contribution İlanı
 <p align="center">
   <img src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
