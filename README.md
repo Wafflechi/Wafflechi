@@ -69,8 +69,8 @@
 
 ## 🧩 TryHackMe Profilim
 <div align="center">
-  <a href="https://tryhackme.com/p/banisca" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/banisca.png" alt="TryHackMe" width="300"/>
+  <a href="https://tryhackme.com/p/ekbermv" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/ekbermv.png" alt="TryHackMe" width="300"/>
   </a>
 </div>
 
