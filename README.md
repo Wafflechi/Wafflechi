@@ -5,7 +5,7 @@
 
 <!-- Salam Banner -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Salam!+Mən,+Əkbər+Mahmudow;Azerbaycansayağı+Developer;Junior+Back-End+Programçı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Salam!+Mən,+Əkbər+Mahmudow;Azerbaycansayağı+Developer;+Kiber+Təhlükəsiz+üzrə+P.T;" alt="Typing SVG" />
 </h1>
 
 <!-- Gif animasiyalı giriş -->
