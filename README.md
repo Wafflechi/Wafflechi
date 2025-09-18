@@ -30,7 +30,7 @@
 
 ## 📈 Aktivlik və Statistika
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ekbermv&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salesp07&show_icons=true&theme=radical" width="45%"/>
 </div>
 
 ---
