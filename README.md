@@ -30,7 +30,7 @@
 
 ## 📈 Aktivlik və Statistika
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wafflechi&show_icons=true&theme=radical" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ekbermv&show_icons=true&theme=radical" width="45%"/>
 </div>
 
 ---
@@ -50,8 +50,8 @@
   <a href="https://instagram.com/ekbermv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-ekbermv-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.hackerrank.com/1timsah" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-wafflechi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/ekbermv" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-ekbermv-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 </div>
 
